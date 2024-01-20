@@ -1,0 +1,19 @@
+{
+  "name": "005-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-weather.js",
+  "bin": {
+    "weather": "./app-weather.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
